@@ -1,4 +1,4 @@
-### Hi 👋 I'm Lukas
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Mozartuss/Mozartuss/main/Hi.gif" width="40px" />, I'm Lukas</h1>
 
 I am a student at the University of Applied Sciences Augsburg and I am currently working on my master's degree in computer science with a focus on data science.
 
